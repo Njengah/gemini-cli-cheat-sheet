@@ -1,4 +1,4 @@
-# # Gemini CLI Cheatsheet: From Zero to Hero
+# # Gemini CLI Cheat Sheet: From Zero to Hero
 A comprehensive reference guide for Google's Gemini CLI commands. This cheatsheet provides quick command lookup and model switching examples, as well as practical usage patterns for developers at all levels.
 
 ## Why This Cheatsheet?
